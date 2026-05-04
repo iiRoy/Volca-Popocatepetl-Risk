@@ -224,6 +224,22 @@ After validation, the program calculates and animates the projectile trajectory.
 
 ---
 
+## Example Results Section
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/603edb88-e2e8-4eb4-9fa6-99a7e4d12847" alt="Volca Result 1" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54149aa6-9930-45f4-aed8-0a5f98a4ea83" alt="Volca Result 2" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0791094a-28b9-47bf-8c3d-7e78b9622cf5" alt="Volca Result 3" width="700" />
+</p>
+
+---
+
 ## Mathematical Model
 
 The program uses basic projectile-motion equations.

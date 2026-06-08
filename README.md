@@ -455,7 +455,14 @@ Student ID: `A01737437`
 
 ## License
 
-CC0 1.0 Universal
+This project is publicly available for educational and portfolio review purposes only.
+
+The source code, visual assets, audio, videos, logos, screenshots, documentation, and other project materials may not be used, copied, modified, redistributed, sublicensed, or used commercially without explicit permission from the project authors.
+
+All rights reserved unless otherwise stated.
+
+> [!IMPORTANT]
+> Some third-party assets, music, libraries, or references may be subject to their own licenses. Those materials remain owned by their original creators and are not covered by this project license.
 
 ---
 
